@@ -1,0 +1,1 @@
+These examples are taken from: https://github.com/bazelbuild/examples/tree/master/cpp-tutorial
